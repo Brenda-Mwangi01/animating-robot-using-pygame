@@ -7,8 +7,6 @@
 # right.
 
 
-# function for line generation
-# function for line generation
 def bresenham(x1, y1, x2, y2):
 
 	m_new = 2 * (y2 - y1)
