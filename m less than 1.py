@@ -24,4 +24,5 @@ def dda(x1, y1, x2, y2):
         y = y + y_inc
         maxi-=1
 # function call
+# function call
 dda(0,0,10,8)
